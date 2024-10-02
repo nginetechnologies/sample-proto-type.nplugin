@@ -1,0 +1,29 @@
+{
+    "1fa1bb14-26dd-45aa-948b-ca23c5ccb5f9": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/Proto Type.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[3.8966424465179445,-4.926205635070801,6.607368469238281],\"rotation\":[-40.40924835205078,-5.728901442125789e-7,46.360076904296878]}"
+        }
+    },
+    "4426d69a-47c7-1e4f-0749-b39ce97ba49b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Proto_Type_Thumb.tex.nasset"
+    },
+    "8466801c-3ba7-f18e-66dc-5ff0aaaebc65": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "d8baa20b-c745-4b3e-8218-87adbe85284c": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "Proto Type",
+        "thumbnail": "4426d69a-47c7-1e4f-0749-b39ce97ba49b",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
+    },
+    "guid": "8466801c-3ba7-f18e-66dc-5ff0aaaebc65"
+}
